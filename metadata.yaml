@@ -15,6 +15,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Louis_Couperus
     - http://en.wikipedia.org/wiki/Louis_Couperus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27487#Jan-en-Florence
 gutenberg_issued: '2008-12-10'
 gutenberg_type: Text
 identifiers:
