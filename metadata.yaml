@@ -1,0 +1,34 @@
+_repo: Jan-en-Florence_27487
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Couperus, Louis
+    alias: Couperus, Louis Marie Anne
+    birthdate: 1863
+    deathdate: 1923
+    gutenberg_agent_id: '4169'
+    url: http://www.gutenberg.org/2009/agents/4169
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Louis_Couperus
+    - http://en.wikipedia.org/wiki/Louis_Couperus
+description: ''
+gutenberg_issued: '2008-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27487'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Essays'
+tableOfContents: Jan en Florence -- Vreemdelingenhaat -- De Gioconda, futuristen en
+  vreemdelingen -- Sentimentalisme tegen Futurisme -- De droomen -- De spreeuwen --
+  Un uomo finito -- Korte notities -- Lentestemming -- Mannelijk toilet -- De maskers
+  -- Conversatie.
+title: Jan en Florence
+url: http://www.gutenberg.org/ebooks/27487
